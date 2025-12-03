@@ -1,0 +1,14 @@
+{
+  "name": "JNV Marketing",
+  "short_name": "JNV Marketing",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#6b46c1",
+  "background_color": "#ffffff",
+  "display": "standalone"
+} 

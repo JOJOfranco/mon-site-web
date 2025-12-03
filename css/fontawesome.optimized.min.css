@@ -1,0 +1,31 @@
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:swap;src:url(../webfonts/fa-solid-900.woff2) format("woff2")}
+
+.fa,.fas{font-family:"Font Awesome 5 Free";font-weight:900}
+
+.fa,.fas{-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;display:inline-block;font-style:normal;font-variant:normal;text-rendering:auto;line-height:1}
+
+.fa:before,.fas:before{content:var(--fa)}
+
+.fa-arrow-left{--fa:"\f060"}
+.fa-arrow-right{--fa:"\f061"}
+.fa-arrow-up{--fa:"\f062"}
+.fa-chart-line{--fa:"\f201"}
+.fa-chart-pie{--fa:"\f200"}
+.fa-check-circle{--fa:"\f058"}
+.fa-chevron-down{--fa:"\f078"}
+.fa-cookie-bite{--fa:"\f564"}
+.fa-envelope{--fa:"\f0e0"}
+.fa-envelope-open-text{--fa:"\f658"}
+.fa-heart{--fa:"\f004"}
+.fa-handshake{--fa:"\f2b5"}
+.fa-lightbulb{--fa:"\f0eb"}
+.fa-paint-brush{--fa:"\f1fc"}
+.fa-phone{--fa:"\f095"}
+.fa-search-dollar{--fa:"\f688"}
+.fa-star{--fa:"\f005"}
+.fa-star-half-alt{--fa:"\f5c0"}
+.fa-times{--fa:"\f00d"}
+.fa-users{--fa:"\f0c0"}
+.fa-user-friends{--fa:"\f500"}
+.fa-video{--fa:"\f03d"}
+.fa-ad{--fa:"\f641"} 
